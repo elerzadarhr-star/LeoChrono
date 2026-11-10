@@ -1,0 +1,26 @@
+{
+  "days": [
+    "NED",
+    "PON",
+    "UTO",
+    "SRI",
+    "ČET",
+    "PET",
+    "SUB"
+  ],
+  "months": [
+    "SIJ",
+    "VEL",
+    "OŽU",
+    "TRA",
+    "SVI",
+    "LIP",
+    "SRP",
+    "KOL",
+    "RUJ",
+    "LIS",
+    "STU",
+    "PRO"
+  ],
+  "heartRate": "OTK/MIN"
+}
