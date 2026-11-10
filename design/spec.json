@@ -1,0 +1,25 @@
+{
+  "name": "LeoChrono",
+  "device": "Huawei Watch GT 6 46 mm",
+  "colors": {
+    "background": "#000000",
+    "blue": "#168BEB",
+    "emerald": "#008C70",
+    "heart": "#E53935",
+    "text": "#FFFFFF"
+  },
+  "elements": [
+    "brand LeoChrono",
+    "large 24-hour clock",
+    "uppercase Croatian date",
+    "red heart and large heart rate",
+    "weather icon and temperature",
+    "large step count with shoe below",
+    "battery percentage with icon below"
+  ],
+  "noRings": true,
+  "noKcal": true,
+  "alwaysOnDisplay": "time and date only if supported",
+  "data": "native watch-face bindings; no fake values",
+  "status": "design specification, not compiled"
+}
